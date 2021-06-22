@@ -31,16 +31,15 @@ ax2.set_yticks(np.arange(0, round(float(maxn[1])) + 2, 1))
 
 # Linear Regression
 regressor = LinearRegression()
-
 regressor.fit(x, y1)
 diapred = np.arange(1, 61, 1)
 xpred = diapred.reshape(-1, 1)
 ypred = regressor.predict(xpred)
-ax1.plot(xpred, ypred, label="Regressão linear da moeda 1")
+ax1.plot(xpred, ypred, label=f"Regressão linear da moeda 1 \n $y= {float(regressor.coef_):.4f}x + {float(regressor.intercept_):.4f}$", color='y')
 
 regressor.fit(x, y2)
 ypred = regressor.predict(xpred)
-ax2.plot(xpred, ypred, label='Regressão linear da moeda 2', color='r')
+ax2.plot(xpred, ypred, label=f"Regressão linear da moeda 2 \n $y= {float(regressor.coef_):.4f}x + {float(regressor.intercept_):.4f}$", color='r')
 
 # Plot with labels
 ax1.legend()

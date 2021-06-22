@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcaa48f9-b2e4-4eec-8201-5433087f7ce2" name="Default Changelist" comment="" />
+    <list default="true" id="fcaa48f9-b2e4-4eec-8201-5433087f7ce2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regressaolinear.py" beforeDir="false" afterPath="$PROJECT_DIR$/regressaolinear.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1uGvDkdOyMamcQ4XJInbHUloLuf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
   <component name="RunManager" selected="Python.regressaolinear (1)">
@@ -89,22 +96,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1624314178901">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1624323368496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624314178901" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1624314178901">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624323368496" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1624323368496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624314178901" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1624314178901">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624323368496" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1624323368496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624314178901" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1624314178901">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624323368496" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1624323368496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624314178901" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624323368496" />
+    <state width="1345" height="214" key="GridCell.Tab.1.bottom" timestamp="1624323335065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624323335065" />
+    <state width="1345" height="214" key="GridCell.Tab.1.center" timestamp="1624323335065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="214" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1624323335065" />
+    <state width="1345" height="214" key="GridCell.Tab.1.left" timestamp="1624323335065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="214" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1624323335065" />
+    <state width="1345" height="214" key="GridCell.Tab.1.right" timestamp="1624323335065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1624323335065" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1624314393597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
