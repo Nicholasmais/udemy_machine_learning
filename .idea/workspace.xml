@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcaa48f9-b2e4-4eec-8201-5433087f7ce2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/multiplelinearregression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multipleLR.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiplelinearregression.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiplelinearregression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,49 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
-  <component name="RunManager" selected="Python.multiplelinearregression">
+  <component name="RunManager" selected="Python.multipleLR">
+    <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/pandas/core/indexes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/pandas/core/indexes/base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multipleLR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multipleLR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="multiplelinearregression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="udemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,8 +140,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multipleLR" />
         <item itemvalue="Python.multiplelinearregression" />
         <item itemvalue="Python.regressaolinear (1)" />
+        <item itemvalue="Python.base" />
         <item itemvalue="Python.regressaolinear" />
       </list>
     </recent_temporary>
@@ -118,38 +163,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="224" key="GridCell.Tab.0.bottom" timestamp="1624385305744">
+    <state width="1345" height="214" key="GridCell.Tab.0.bottom" timestamp="1624399561923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="224" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624385305744" />
-    <state width="1345" height="224" key="GridCell.Tab.0.center" timestamp="1624385305744">
+    <state width="1345" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624399561923" />
+    <state width="1345" height="214" key="GridCell.Tab.0.center" timestamp="1624399561923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="224" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624385305744" />
-    <state width="1345" height="224" key="GridCell.Tab.0.left" timestamp="1624385305744">
+    <state width="1345" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624399561923" />
+    <state width="1345" height="214" key="GridCell.Tab.0.left" timestamp="1624399561923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="224" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624385305744" />
-    <state width="1345" height="224" key="GridCell.Tab.0.right" timestamp="1624385305744">
+    <state width="1345" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624399561923" />
+    <state width="1345" height="214" key="GridCell.Tab.0.right" timestamp="1624399561923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="224" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624385305744" />
-    <state width="1345" height="214" key="GridCell.Tab.1.bottom" timestamp="1624381815657">
+    <state width="1345" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624399561923" />
+    <state width="1345" height="214" key="GridCell.Tab.1.bottom" timestamp="1624399561924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624381815657" />
-    <state width="1345" height="214" key="GridCell.Tab.1.center" timestamp="1624381815657">
+    <state width="1345" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624399561924" />
+    <state width="1345" height="214" key="GridCell.Tab.1.center" timestamp="1624399561924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="214" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1624381815657" />
-    <state width="1345" height="214" key="GridCell.Tab.1.left" timestamp="1624381815657">
+    <state width="1345" height="214" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1624399561924" />
+    <state width="1345" height="214" key="GridCell.Tab.1.left" timestamp="1624399561923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="214" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1624381815657" />
-    <state width="1345" height="214" key="GridCell.Tab.1.right" timestamp="1624381815657">
+    <state width="1345" height="214" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1624399561923" />
+    <state width="1345" height="214" key="GridCell.Tab.1.right" timestamp="1624399561924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1624381815657" />
+    <state width="1345" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1624399561924" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1624314393597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
